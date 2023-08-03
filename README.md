@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Alonso Núñez Navarro</h1>
-<h3 align="center">Graduated from Systems Engineering and Full Stack Developer</h3>
+<h3 align="center">Graduated from Systems Engineering and Full Stack Web Developer</h3>
 
 <h3 align="left">About me:</h3>
 <p align="left"> I am a Systems Engineering graduate from the José Faustino Sánchez Carrión National University, in Huacho - Peru and a Full Stack developer graduated from Henry's Bootcamp. I have development experience using technologies like React, Redux and Redux Toolkit. On the backend, I have knowledge in Node, Sequelize and PostgreSQL. My main programming language is Typescript. I am a responsible person, with a lot of initiative and passionate about technology. I stand out for my capacity for continuous learning and my ability to work as a team. My goal is to become a leading expert in my field and face future challenges with enthusiasm and determination.</p>
