@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Martin Alonso Núñez Navarro</h1>
 <h3 align="center">Graduated from Systems Engineering and Full Stack Developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinalonsonu" alt="martinalonsonu" /></a> </p>
+<h3 align="left">About me:</h3>
+<p align="left"> Graduate in Systems Engineering from the National University José Faustino Sánchez Carrión. Currently, I am a Full Stack Developer student. I have experience in development using technologies such as React, Redux, and Redux Toolkit. In the backend, I am familiar with Node, Sequelize, and PostgreSQL. My primary programming language is JavaScript. I am a responsible person with a lot of initiative and a passion for technology. I am known for my ability to continuously learn and work well in teams. My goal is to become a prominent expert in my field and approach future challenges with enthusiasm and determination.</p>
 
 <p align="left"> <a href="https://twitter.com/martinalonsonu" target="blank"><img src="https://img.shields.io/twitter/follow/martinalonsonu?logo=twitter&style=for-the-badge" alt="martinalonsonu" /></a> </p>
 
