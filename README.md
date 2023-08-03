@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Alonso Núñez Navarro</h1>
 <h3 align="center">Graduated from Systems Engineering and Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinalonsonu" alt="martinalonsonu" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinalonsonu" alt="martinalonsonu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/martinalonsonu" target="blank"><img src="https://img.shields.io/twitter/follow/martinalonsonu?logo=twitter&style=for-the-badge" alt="martinalonsonu" /></a> </p>
 
