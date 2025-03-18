@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/martinalonsonu" target="blank"><img src="https://img.shields.io/twitter/follow/martinalonsonu?logo=twitter&style=for-the-badge" alt="martinalonsonu" /></a> </p>
 
-- 🔭 I’m currently working in **the company "INNAPSIS SAS S.A.C" as a frontend developer**
+- 🔭 I’m currently working in **the company "RPA LATAM" as a frontend developer**
 
 - 🌱 I’m currently learning **PHP and Laravel**
 
